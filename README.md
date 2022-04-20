@@ -1,2 +1,2 @@
 # University_KA
-Computer architecture course in Vilnius University
+Computer architecture course at Vilnius University
